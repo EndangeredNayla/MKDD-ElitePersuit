@@ -1,0 +1,866 @@
+[
+    {
+        "trackName": "Faron Woods",
+        "version": "beta_01",
+        "cup": "A",
+        "track": "1",
+        "author": "tarsa129",
+        "downloadLink": "https://drive.google.com/file/d/1b2eu3mW04Jrjz4rpxXMajOBPirlvWiE8/view?usp=share_link",
+        "wikiLink": "https://mkdd.org/wiki/Faron_Woods"
+    },
+    {
+        "trackName": "Sirena Beach",
+        "version": "1.1",
+        "cup": "A",
+        "track": "2",
+        "author": "King Boo Gaming",
+        "downloadLink": "https://drive.google.com/file/d/1D9SbRKowaDdD1m_T_lSCaOZjpQrQyyB0/view?usp=share_link",
+        "wikiLink": "https://mkdd.org/wiki/Sirena_Beach"
+    },
+    {
+        "trackName": "Dinosaur Canyon",
+        "version": "1.0",
+        "cup": "A",
+        "track": "3",
+        "author": "Yoshi2",
+        "downloadLink": "https://drive.google.com/file/d/1HNVLA1N2aPCRmfilKUXDpeqkznBU1Wgr/view?usp=share_link",
+        "wikiLink": "https://mkdd.org/wiki/Dinosaur_Canyon"
+    },
+    {
+        "trackName": "Goron Mines-ish",
+        "version": "beta",
+        "cup": "A",
+        "track": "4",
+        "author": "tarsa129",
+        "downloadLink": "https://drive.google.com/file/d/1BLTgfb9eQ3l_lGHD7e7EW34GyWqWcOkv/view?usp=share_link",
+        "wikiLink": "https://mkdd.org/wiki/Goron_Mines-ish"
+    },
+    {
+        "trackName": "Lakitu Lawn",
+        "version": "1.0",
+        "cup": "B",
+        "track": "1",
+        "author": "ThatCowGuy",
+        "downloadLink": "https://drive.google.com/file/d/13rHn_3UxzhNOOzslhmHaZa1oyGSH8qxd/view?usp=share_link",
+        "wikiLink": "https://mkdd.org/wiki/Lakitu_Lawn"
+    },
+    {
+        "trackName": "Wendy Raceway",
+        "version": "Beta 2",
+        "cup": "B",
+        "track": "2",
+        "author": "Marianne8559",
+        "downloadLink": "https://www.dropbox.com/scl/fi/bjkh3oaaofks93be68v6u/GBA-Wendy-Raceway-1-Beta2.zip?rlkey=84dv1jrceyljwnibzhi71c7ao&st=kwtsik87&dl=1",
+        "wikiLink": "https://mkdd.org/wiki/GBA_Wendy_Raceway_1"
+    },
+    {
+        "trackName": "Rosalina Resort",
+        "version": "1.0",
+        "cup": "B",
+        "track": "3",
+        "author": "ExxitZero",
+        "downloadLink": "https://drive.google.com/file/d/1Ll8t_2IXQEXhtp9WYaxai2b6SPM6lHM9/view?usp=share_link",
+        "wikiLink": "https://mkdd.org/wiki/Rosalina_Resort"
+    },
+    {
+        "trackName": "Pianta Parlor",
+        "version": "beta_hotfix",
+        "cup": "B",
+        "track": "4",
+        "author": "tarsa129",
+        "downloadLink": "https://drive.google.com/file/d/1MU0IppmPir0sVtqNrRcH8JpfUxJacwMo/view?usp=share_link",
+        "wikiLink": "https://mkdd.org/wiki/Pianta_Parlor"
+    },
+    {
+        "trackName": "The Best CT of 2023",
+        "version": "1.0",
+        "cup": "C",
+        "track": "1",
+        "author": "riidefi, tarsa129",
+        "downloadLink": "https://drive.google.com/file/d/1XuzkkXd-5Tvo4I8NN6aFCdYQjYeOi7wE/view?usp=share_link",
+        "wikiLink": "https://mkdd.org/wiki/The_Best_CT_of_2023"
+    },
+    {
+        "trackName": "Puzzpack Fun",
+        "version": "beta",
+        "cup": "C",
+        "track": "2",
+        "author": "tarsa129",
+        "downloadLink": "https://drive.google.com/file/d/1ngqS-cPhcP5j13JfWDY5GVfvU6NnfYSl/view?usp=share_link",
+        "wikiLink": "https://mkdd.org/wiki/PuzzPack_on_the_TI-84_SE"
+    },
+    {
+        "trackName": "Making Some Pasta",
+        "version": "beta",
+        "cup": "C",
+        "track": "3",
+        "author": "tarsa129",
+        "downloadLink": "https://drive.google.com/file/d/1FnERZ7Q92TvhdYXnNEVV54NI80Q80E3h/view?usp=share_link",
+        "wikiLink": "https://mkdd.org/wiki/Making_Some_Pasta"
+    },
+    {
+        "trackName": "Funky Kong's Hideaway",
+        "version": "1.0",
+        "cup": "C",
+        "track": "4",
+        "author": "tarsa129",
+        "downloadLink": "https://drive.google.com/file/d/1VEniQYrxmIXc0dEHoIDUoOy8DWJJbsE-/view?usp=sharing",
+        "wikiLink": "https://mkdd.org/wiki/Funky_Kong%27s_Hideaway"
+    },
+    {
+        "trackName": "Under Water Unit",
+        "version": "2.0",
+        "cup": "D",
+        "track": "1",
+        "author": "tarsa129",
+        "downloadLink": "https://drive.google.com/file/d/1gtu4fEDL1vLq5xpyVsRfY508HqewszkJ/view?usp=sharing",
+        "wikiLink": "https://mkdd.org/wiki/Under_Water_Unit"
+    },
+    {
+        "trackName": "In a Cloud",
+        "version": "beta",
+        "cup": "D",
+        "track": "2",
+        "author": "tarsa129",
+        "downloadLink": "https://drive.google.com/file/d/1jqf-lv7rJjQw6_DWoMao_KfFQ29-ZdhK/view?usp=sharing",
+        "wikiLink": "https://mkdd.org/wiki/In_a_Cloud"
+    },
+    {
+        "trackName": "Bowser's Shipyard",
+        "version": "0.7.1",
+        "cup": "D",
+        "track": "3",
+        "author": "Sir LoLz",
+        "downloadLink": "https://drive.google.com/file/d/1LtbOR1yi-ne1ZVqOkjjZThP760T2dZRP/view?usp=sharing",
+        "wikiLink": "https://mkdd.org/wiki/Bowser%27s_Shipyard"
+    },
+    {
+        "trackName": "Rainbow Avenue",
+        "version": "2.0b",
+        "cup": "D",
+        "track": "4",
+        "author": "tarsa129",
+        "downloadLink": "https://drive.google.com/file/d/1irBpxlOP_Pv1SrjVF1ZU5cELxugLnDoo/view?usp=sharing",
+        "wikiLink": "https://mkdd.org/wiki/Rainbow_Avenue"
+    },
+    {
+        "trackName": "DS Mario Circuit",
+        "version": "2.0",
+        "cup": "E",
+        "track": "1",
+        "author": "Majas de pic",
+        "downloadLink": "https://drive.google.com/file/d/1Pg4_CEMRvdddxwdgTRAhNwUcCh9ncCoc/view?usp=sharing",
+        "wikiLink": "https://mkdd.org/wiki/DS_Mario_Circuit"
+    },
+    {
+        "trackName": "3DS Daisy Hills",
+        "version": "2.0",
+        "cup": "E",
+        "track": "2",
+        "author": "That1loser4",
+        "downloadLink": "https://mega.nz/folder/cdo2hLRL#AcNFtnrbWqW9jD4ZThvuHA",
+        "wikiLink": "https://mkdd.org/wiki/3DS_Daisy_Hills"
+    },
+    {
+        "trackName": "Wii Mushroom Gorge",
+        "version": "2.2",
+        "cup": "E",
+        "track": "3",
+        "author": "ExxitZero",
+        "downloadLink": "https://www.mediafire.com/file/dt3wvvkeudvqnop/WiiMushroomGorge.v1.zip",
+        "wikiLink": "https://mkdd.org/wiki/Sakura_Speedway"
+    },
+    {
+        "trackName": "N64 Sherbet Land",
+        "version": "1.0",
+        "cup": "E",
+        "track": "4",
+        "author": "That1loser4",
+        "downloadLink": "https://mega.nz/folder/xZBVGBDR#REg76ezZ9dYHCyNA44WyXw",
+        "wikiLink": "https://mkdd.org/wiki/N64_Sherbet_Land"
+    },
+    {
+        "trackName": "GBA Luigi Circuit",
+        "version": "3.2",
+        "cup": "F",
+        "track": "1",
+        "author": "ExxitZero",
+        "downloadLink": "https://drive.google.com/file/d/1AVVbyv_chYagY4OuDw2_TyA0TkhkyJvu/view?usp=sharing",
+        "wikiLink": "https://mkdd.org/wiki/GBA_Luigi_Circuit"
+    },
+    {
+        "trackName": "Wii Coconut Mall",
+        "version": "1.0",
+        "cup": "F",
+        "track": "2",
+        "author": "That1loser4",
+        "downloadLink": "https://mega.nz/folder/cdp1xDrA#gJI-QelqVVS-qYxMfCKH7Q/",
+        "wikiLink": "https://mkdd.org/wiki/Wii_Coconut_Mall"
+    },
+    {
+        "trackName": "3DS Piranha Plant Slide",
+        "version": "1.0",
+        "cup": "F",
+        "track": "3",
+        "author": "That1loser4",
+        "downloadLink": "https://mega.nz/folder/4AphmKxJ#WFPIuk8RLBeZMjLfYKyn5Q/folder/AMgWRaTA",
+        "wikiLink": "null"
+    },
+    {
+        "trackName": "SNES Rainbow Road",
+        "version": "1.1",
+        "cup": "F",
+        "track": "4",
+        "author": "That1loser4",
+        "downloadLink": "https://mega.nz/folder/BdhVzYzA#0ZOxepJlTJBK57DOS3wQRw",
+        "wikiLink": "https://mkdd.org/wiki/SNES_Rainbow_Road_(That1loser4)"
+    },
+    {
+        "trackName": "N64 Kalimari Desert",
+        "version": "1.0",
+        "cup": "G",
+        "track": "1",
+        "author": "ExxitZero",
+        "downloadLink": "https://drive.google.com/file/d/1yBMVwqSC8fAkaY_mVRxCMoOqaB2M36eG/view?usp=sharing",
+        "wikiLink": "https://mkdd.org/wiki/N64_Kalimari_Desert"
+    },
+    {
+        "trackName": "N64 Royal Raceway",
+        "version": "1.0",
+        "cup": "G",
+        "track": "2",
+        "author": "That1loser4",
+        "downloadLink": "https://mega.nz/folder/ZJBjhLBT#2iDItpJE5NVjatqkoRi00A",
+        "wikiLink": "https://mkdd.org/wiki/N64_Royal_Raceway_(That1loser4)"
+    },
+    {
+        "trackName": "3DS Cheep Cheep Lagoon",
+        "version": "1.0",
+        "cup": "G",
+        "track": "3",
+        "author": "That1loser4",
+        "downloadLink": "https://mega.nz/folder/4AphmKxJ#WFPIuk8RLBeZMjLfYKyn5Q/folder/kR4WkIRJ",
+        "wikiLink": "null"
+    },
+    {
+        "trackName": "Wii Maple Treeway",
+        "version": "1.0",
+        "cup": "G",
+        "track": "4",
+        "author": "That1loser4",
+        "downloadLink": "https://mega.nz/folder/4AphmKxJ#WFPIuk8RLBeZMjLfYKyn5Q/folder/sdgkQKjA",
+        "wikiLink": "null"
+    },
+    {
+        "trackName": "Wii Moonview Highway",
+        "version": "1.4",
+        "cup": "H",
+        "track": "1",
+        "author": "King Boo Gaming",
+        "downloadLink": "https://drive.google.com/file/d/16mSHqPmCOvQLCMHXpGlQn3K0IoY7348G/view?usp=sharing",
+        "wikiLink": "https://mkdd.org/wiki/Wii_Moonview_Highway"
+    },
+    {
+        "trackName": "Wii Koopa Cape",
+        "version": "1.4",
+        "cup": "H",
+        "track": "2",
+        "author": "That1loser4",
+        "downloadLink": "https://mega.nz/folder/4AphmKxJ#WFPIuk8RLBeZMjLfYKyn5Q/folder/gUg0TKzL",
+        "wikiLink": "null"
+    },
+    {
+        "trackName": "3DS Bowser's Castle",
+        "version": "1.4",
+        "cup": "H",
+        "track": "3",
+        "author": "That1loser4",
+        "downloadLink": "https://mega.nz/folder/4AphmKxJ#WFPIuk8RLBeZMjLfYKyn5Q/folder/QVoAEa4K",
+        "wikiLink": "null"
+    },
+    {
+        "trackName": "DS Rainbow Road",
+        "version": "1.4",
+        "cup": "H",
+        "track": "4",
+        "author": "That1loser4",
+        "downloadLink": "https://mega.nz/folder/4AphmKxJ#WFPIuk8RLBeZMjLfYKyn5Q/folder/QU4iWaIb",
+        "wikiLink": "null"
+    },
+    {
+        "trackName": "Daisy Village",
+        "version": "1.0",
+        "cup": "I",
+        "track": "1",
+        "author": "tarsa129",
+        "downloadLink": "https://drive.google.com/file/d/1DAj-9jiUNIopzJM6ZQr_5i940rfxX1Mn/view?usp=sharing",
+        "wikiLink": "https://mkdd.org/wiki/Daisy_Village"
+    },
+    {
+        "trackName": "Sakura Speedway",
+        "version": "2.2",
+        "cup": "I",
+        "track": "2",
+        "author": "ExxitZero",
+        "downloadLink": "https://drive.google.com/file/d/1ve_5gNzaofshhi8A0CH7QNObk_qK3j_X/view?usp=sharing",
+        "wikiLink": "https://mkdd.org/wiki/Sakura_Speedway"
+    },
+    {
+        "trackName": "Minigame Circuit",
+        "version": "1.0-hotfix",
+        "cup": "I",
+        "track": "3",
+        "author": "King Boo Gaming",
+        "downloadLink": "https://drive.google.com/file/d/1Vy4zUFwO7x-8YlSMt4WVKDW1Lem_EBfl/view?usp=sharing",
+        "wikiLink": "https://mkdd.org/wiki/Mini-Game_Circuit"
+    },
+    {
+        "trackName": "Whittle Woodway",
+        "version": "1.0",
+        "cup": "I",
+        "track": "4",
+        "author": "Casini Luigi",
+        "downloadLink": "https://drive.google.com/file/d/1Sbz-KS63SpIp8Pk6ka7SvnaUqoIsTI9N/view?usp=sharing",
+        "wikiLink": "https://mkdd.org/wiki/Whittle_Woodway"
+    },
+    {
+        "trackName": "Togekiss Gardens",
+        "version": "1.0",
+        "cup": "J",
+        "track": "1",
+        "author": "King Boo Gaming",
+        "downloadLink": "https://drive.google.com/file/d/1ZQBJWIsrFxLNgVGNa6YaToVmGZ3ZtDON/view?usp=sharing",
+        "wikiLink": "https://mkdd.org/wiki/Togekiss_Gardens"
+    },
+    {
+        "trackName": "Bongo Cat City",
+        "version": "1.1-hotfix",
+        "cup": "J",
+        "track": "2",
+        "author": "Lucas101",
+        "downloadLink": "https://drive.google.com/file/d/12LdS02HNAqv_NRai4vA0D4EHIj-ERosP/view?usp=sharing",
+        "wikiLink": "https://mkdd.org/wiki/Bongo_Cat_City"
+    },
+    {
+        "trackName": "Kirb's Light-Blue Raceway",
+        "version": "1.0",
+        "cup": "J",
+        "track": "3",
+        "author": "King Boo Gaming",
+        "downloadLink": "https://drive.google.com/file/d/11EuxCRKQokpNHZN0k84-64E0c8367Ndx/view?usp=sharing",
+        "wikiLink": "https://mkdd.org/wiki/Kirb%27s_Light-Blue_Raceway"
+    },
+    {
+        "trackName": "Toadette's City 2",
+        "version": "1.0",
+        "cup": "J",
+        "track": "4",
+        "author": "King Boo Gaming",
+        "downloadLink": "https://drive.google.com/file/d/1p3Pp5081Wvx8qMeFY1trSe2zODoySKwN/view?usp=sharing",
+        "wikiLink": "https://mkdd.org/wiki/Toadette%27s_City_2"
+    },
+    {
+        "trackName": "Pianta Village",
+        "version": "1.2",
+        "cup": "K",
+        "track": "1",
+        "author": "tarsa129",
+        "downloadLink": "https://drive.google.com/file/d/1adObmR09DStu9IvO7aM-6X7lyCkcYVTd/view?usp=sharing",
+        "wikiLink": "https://mkdd.org/wiki/Pianta_Village"
+    },
+    {
+        "trackName": "Blooper Race",
+        "version": "2.7",
+        "cup": "K",
+        "track": "2",
+        "author": "tarsa129",
+        "downloadLink": "https://drive.google.com/file/d/1nII-T70Xekc19-fXMCS-rViLjHjPbe24/view?usp=sharing",
+        "wikiLink": "https://mkdd.org/wiki/Blooper_Race"
+    },
+    {
+        "trackName": "Downtown Bikini Bottom",
+        "version": "2.7",
+        "cup": "K",
+        "track": "3",
+        "author": "Pao yeez",
+        "downloadLink": "https://drive.google.com/file/d/1nII-T70Xekc19-fXMCS-rViLjHjPbe24/view?usp=sharing",
+        "wikiLink": "https://mkdd.org/wiki/Blooper_Race"
+    },
+    {
+        "trackName": "Garden Island",
+        "version": "beta",
+        "cup": "K",
+        "track": "4",
+        "author": "King Boo Gaming",
+        "downloadLink": "https://drive.google.com/file/d/1w5HkAM0RqqU2GIKO_n2fGdIgUj8Imd8B/view?usp=sharing",
+        "wikiLink": "https://mkdd.org/wiki/Garden_Island"
+    },
+    {
+        "trackName": "Acid Trip",
+        "version": "1.0",
+        "cup": "L",
+        "track": "1",
+        "author": "King Boo Gaming",
+        "downloadLink": "https://drive.google.com/file/d/1xQw0RxReiV-shr8KhgDfWwiM-hwKsD6D/view?usp=sharing",
+        "wikiLink": "https://mkdd.org/wiki/Acid_Trip"
+    },
+    {
+        "trackName": "Staraluna Town",
+        "version": "1.0-hotfix",
+        "cup": "L",
+        "track": "2",
+        "author": "tarsa129",
+        "downloadLink": "https://drive.google.com/file/d/1_-_fHXjHCrgOEKcY4yNxkfTwv4XZkTiH/view?usp=sharing",
+        "wikiLink": "https://mkdd.org/wiki/Staraluna_Town"
+    },
+    {
+        "trackName": "Giga Bowser's Core",
+        "version": "2.0",
+        "cup": "L",
+        "track": "3",
+        "author": "PiPPiN",
+        "downloadLink": "https://mega.nz/file/jS4ARRDL#u2PDYgfCehHhf4hPXaZLzGF5uH32omPNYWXaljsewAY",
+        "wikiLink": "https://mkdd.org/wiki/Giga_Bowser%27s_Core"
+    },
+    {
+        "trackName": "Red Sector A",
+        "version": "Beta 2",
+        "cup": "L",
+        "track": "4",
+        "author": "Mystora",
+        "downloadLink": "https://drive.google.com/file/d/1KuK2JguXC5UfpOm9Li0pI73IFAr2L-X6/view?usp=sharing",
+        "wikiLink": "https://mkdd.org/wiki/Red_Sector_A"
+    },
+    {
+        "trackName": "3DS DK Jungle",
+        "version": "1.0",
+        "cup": "M",
+        "track": "1",
+        "author": "That1loser4",
+        "downloadLink": "https://mega.nz/folder/4AphmKxJ#WFPIuk8RLBeZMjLfYKyn5Q/folder/cN4i0YiQ",
+        "wikiLink": "https://mkdd.org/wiki/GBA_Peach_Circuit"
+    }, 
+    {
+        "trackName": "GBA Snow Land",
+        "version": "1.0",
+        "cup": "M",
+        "track": "2",
+        "author": "tarsa129",
+        "downloadLink": "https://mega.nz/folder/IRJ2yIRL#piDIFEWIpFrCOlXPpt9AZw",
+        "wikiLink": "https://mkdd.org/wiki/GBA_Snow_Land_(That1loser4)"
+    },
+    {
+        "trackName": "DS Yoshi Falls",
+        "version": "1.0",
+        "cup": "M",
+        "track": "3",
+        "author": "That1loser4",
+        "downloadLink": "https://mega.nz/folder/4AphmKxJ#WFPIuk8RLBeZMjLfYKyn5Q/folder/1UpAnSSL",
+        "wikiLink": "null"
+    },
+    {
+        "trackName": "SNES Choco Island 2",
+        "version": "1.1",
+        "cup": "M",
+        "track": "4",
+        "author": "That1loser4",
+        "downloadLink": "https://mega.nz/folder/kV5lCYhK#Qp9GnaOCPkruQD3zMd5mMQ",
+        "wikiLink": "https://mkdd.org/wiki/SNES_Choco_Island_2_(That1loser4)"
+    },
+    {
+        "trackName": "Wii Moo Moo Meadows",
+        "version": "1.0",
+        "cup": "N",
+        "track": "1",
+        "author": "That1loser4",
+        "downloadLink": "https://mega.nz/folder/4AphmKxJ#WFPIuk8RLBeZMjLfYKyn5Q/folder/IZ4wFQbI",
+        "wikiLink": "null"
+    },
+    {
+        "trackName": "3DS Shy Guy Bazaar",
+        "version": "1.0",
+        "cup": "N",
+        "track": "2",
+        "author": "That1loser4",
+        "downloadLink": "https://drive.google.com/file/d/1PE4zUaRBQKOFd0IFz2PZBcZpE_XyXK6L/view?usp=sharing",
+        "wikiLink": "https://mkdd.org/wiki/3DS_Shy_Guy_Bazaar"
+    },
+    {
+        "trackName": "3DS Music Park",
+        "version": "1.0",
+        "cup": "N",
+        "track": "3",
+        "author": "That1loser4",
+        "downloadLink": "https://mega.nz/folder/4AphmKxJ#WFPIuk8RLBeZMjLfYKyn5Q/folder/4VowACZC",
+        "wikiLink": "null"
+    },
+    {
+        "trackName": "N64 Wario Stadium",
+        "version": "1.0",
+        "cup": "N",
+        "track": "4",
+        "author": "That1loser4",
+        "downloadLink": "https://mega.nz/folder/4AphmKxJ#WFPIuk8RLBeZMjLfYKyn5Q/folder/JM5H0Sab",
+        "wikiLink": "null"
+    },
+    {
+        "trackName": "SNES Donut Plains 2",
+        "version": "1.0",
+        "cup": "O",
+        "track": "1",
+        "author": "That1loser4",
+        "downloadLink": "https://mega.nz/folder/gZhGDYoK#CKpOzxAzFJCliNwMV-9CIw",
+        "wikiLink": "https://mkdd.org/wiki/SNES_Donut_Plains_2"
+    },
+    {
+        "trackName": "N64 Banshee Boardwalk",
+        "version": "1.0",
+        "cup": "O",
+        "track": "2",
+        "author": "ExxitZero",
+        "downloadLink": "https://drive.google.com/file/d/1FEjWIqDjTT5cxFkocjAMpyFs2nsIyeUy/view?usp=share_link",
+        "wikiLink": "https://mkdd.org/wiki/N64_Banshee_Boardwalk"
+    },
+    {
+        "trackName": "3DS Neo Bowser City",
+        "version": "1.0",
+        "cup": "O",
+        "track": "3",
+        "author": "That1loser4",
+        "downloadLink": "https://mega.nz/folder/4AphmKxJ#WFPIuk8RLBeZMjLfYKyn5Q/folder/QdoUlSbJ",
+        "wikiLink": "null"
+    },
+    {
+        "trackName": "3DS Tick Tock Clock",
+        "version": "1.0",
+        "cup": "O",
+        "track": "4",
+        "author": "That1loser4",
+        "downloadLink": "https://mega.nz/folder/4AphmKxJ#WFPIuk8RLBeZMjLfYKyn5Q/folder/lFhgnKwY",
+        "wikiLink": "null"
+    },
+    {
+        "trackName": "Tour Singapore Speedway",
+        "version": "1.0",
+        "cup": "P",
+        "track": "1",
+        "author": "Pao yeez",
+        "downloadLink": "https://drive.google.com/file/d/1-8r9g2pSnp6G-HHlM_rwdiTxJcx8Hr7i/view?usp=share_link",
+        "wikiLink": "https://mkdd.org/wiki/Tour_Singapore_Speedway"
+    },
+    {
+        "trackName": "N64 Choco Mountain",
+        "version": "1.0",
+        "cup": "P",
+        "track": "2",
+        "author": "Casini Loogi",
+        "downloadLink": "https://drive.google.com/file/d/1tYy4tKFu_l34x57jn9r2iG4s9QMRU1T4/view?usp=sharing",
+        "wikiLink": "https://mkdd.org/wiki/N64_Choco_Mountain"
+    },
+    {
+        "trackName": "GBA Bowser's Castle 4",
+        "version": "1.0",
+        "cup": "P",
+        "track": "3",
+        "author": "That1loser4",
+        "downloadLink": "https://mega.nz/folder/4AphmKxJ#WFPIuk8RLBeZMjLfYKyn5Q/folder/0AwCBSIB",
+        "wikiLink": "n/a"
+    },
+    {
+        "trackName": "Wii Rainbow Road",
+        "version": "1.0",
+        "cup": "P",
+        "track": "4",
+        "author": "That1loser4",
+        "downloadLink": "https://mega.nz/folder/4AphmKxJ#WFPIuk8RLBeZMjLfYKyn5Q/folder/VRwWASrZ",
+        "wikiLink": "n/a"
+    },
+    {
+        "trackName": "E Gadd's Circuit",
+        "version": "1.0",
+        "cup": "Q",
+        "track": "1",
+        "author": "Crow8028",
+        "downloadLink": "https://drive.google.com/file/d/1jbV7KqQg3x6inM6OUDde2LIIB__8BeOZ/view?usp=drive_link",
+        "wikiLink": "https://mkdd.org/wiki/E_Gadd_Circuit"
+    },
+    {
+        "trackName": "Flowery Flubdub",
+        "version": "1.0",
+        "cup": "Q",
+        "track": "2",
+        "author": "tarsa129",
+        "downloadLink": "https://drive.google.com/file/d/1u6h8tywqy2lYzzRYqcEpYfEk26-l11ZL/view?usp=drive_link",
+        "wikiLink": "https://mkdd.org/wiki/Flowery_Flubdub"
+    },
+    {
+        "trackName": "Garden Center Clerance Sale",
+        "version": "1.0",
+        "cup": "Q",
+        "track": "3",
+        "author": "tarsa129",
+        "downloadLink": "https://drive.google.com/file/d/1rsx3Fq5JLwcUOM1elpgsRFqRU-zDfivy/view?usp=sharing",
+        "wikiLink": "https://mkdd.org/wiki/Garden_Center_Clearance_Sale"
+    },
+    {
+        "trackName": "Dragon's Roost",
+        "version": "1.0",
+        "cup": "Q",
+        "track": "4",
+        "author": "Crow8028",
+        "downloadLink": "https://drive.google.com/file/d/1eTRqbPCMI0T927OvffmyvZLke0FO-pEJ/view?usp=sharing",
+        "wikiLink": "https://mkdd.org/wiki/Dragon%27s_Roost"
+    },
+    {
+        "trackName": "Lakebed Temple-ish",
+        "version": "1.0",
+        "cup": "R",
+        "track": "1",
+        "author": "tarsa129",
+        "downloadLink": "https://drive.google.com/file/d/1BRLQo52pHg9YAipJVxmzB_Po6LNojUOf/view?usp=sharing",
+        "wikiLink": "https://mkdd.org/wiki/Lakebed_Temple-ish"
+    },
+    {
+        "trackName": "Mushroom Peaks",
+        "version": "RC2",
+        "cup": "R",
+        "track": "2",
+        "author": "Marianne8559",
+        "downloadLink": "https://www.dropbox.com/scl/fi/68cihy5kziq47ae88m9mc/WiiCT-Mushroom-Peaks-RC2.zip?rlkey=rsmkjzob9fjg3xludth42tfr1&st=ts0mk04z&dl=1",
+        "wikiLink": "https://mkdd.org/wiki/Mushroom_Peaks"
+    },
+    {
+        "trackName": "Lanayru Mining Facility",
+        "version": "1.0-hotfix",
+        "cup": "R",
+        "track": "3",
+        "author": "tarsa129",
+        "downloadLink": "https://drive.google.com/file/d/1-V_2SCzfIp6C3aOWzStOwSIzG2sEprYi/view?usp=sharing",
+        "wikiLink": "https://mkdd.org/wiki/Lanayru_Mining_Facility"
+    },
+    {
+        "trackName": "Generic Castle",
+        "version": "1.0-hotfix",
+        "cup": "R",
+        "track": "4",
+        "author": "tarsa129",
+        "downloadLink": "https://drive.google.com/file/d/1sKOlALTDUv8nURXau6RVrBpB6IFp9qcd/view?usp=sharing",
+        "wikiLink": "https://mkdd.org/wiki/Generic_Castle"
+    },
+    {
+        "trackName": "Mermaid Lake",
+        "version": "1.1",
+        "cup": "S",
+        "track": "1",
+        "author": "Yoshi2",
+        "downloadLink": "https://drive.google.com/file/d/111gdLWP5Ej467J6TXzYzTEeKy1VhabV7/view?usp=share_link",
+        "wikiLink": "https://mkdd.org/wiki/Mermaid_Lake"
+    },
+    {
+        "trackName": "Mute City Tradition Park II",
+        "version": "1.1",
+        "cup": "S",
+        "track": "2",
+        "author": "Retrostyle12",
+        "downloadLink": "https://mega.nz/file/pTUwQTga#EWikIEwpE6iPsFiJ-sLd9d80vMjVCnCBK99AKK-DymI",
+        "wikiLink": "https://mkdd.org/wiki/Mute_City:_Tradition_Park_II"
+    },
+    {
+        "trackName": "Nebula Belt",
+        "version": "1.1",
+        "cup": "S",
+        "track": "3",
+        "author": "King Boo Gaming",
+        "downloadLink": "https://drive.google.com/file/d/1Q45WIm15kC7a394k8I-KMDmFag9NQSeh/view?usp=share_link",
+        "wikiLink": "https://mkdd.org/wiki/Nebula_Belt"
+    },
+    {
+        "trackName": "Wii Toad's Factory",
+        "version": "1.1",
+        "cup": "S",
+        "track": "4",
+        "author": "King Boo Gaming",
+        "downloadLink": "https://drive.google.com/file/d/1_soAcRwyf28O2QzBB5PoE9Xym1wh49Uu/view?usp=share_link",
+        "wikiLink": "https://drive.google.com/file/d/1_soAcRwyf28O2QzBB5PoE9Xym1wh49Uu"
+    },
+    {
+        "trackName": "Neo Bowser Turnpike",
+        "version": "1.0-hotfix",
+        "cup": "T",
+        "track": "1",
+        "author": "King Boo Gaming",
+        "downloadLink": "https://drive.google.com/file/d/1f8Me4ZFyTGklPNQC8lP-RSh7NaQv5fPt/view?usp=sharing",
+        "wikiLink": "https://mkdd.org/wiki/Neo_Bowser_Turnpike"
+    },
+    {
+        "trackName": "Star Bunny Forest",
+        "version": "1.0-hotfix",
+        "cup": "T",
+        "track": "2",
+        "author": "King Boo Gaming",
+        "downloadLink": "https://drive.google.com/file/d/12_ehtgTNie4r2Gk3XZ7LDDu-eo9UXzuA/view?usp=sharing",
+        "wikiLink": "https://mkdd.org/wiki/Star_Bunny_Forest"
+    },
+    {
+        "trackName": "Bowser Jr.'s Crafty Castle Jr.",
+        "version": "1.0-hotfix",
+        "cup": "T",
+        "track": "3",
+        "author": "tarsa129",
+        "downloadLink": "https://drive.google.com/file/d/1rZ4Nr7wpuC-Oj3AWBdfsWJxMJnUwP7Vw/view?usp=sharing",
+        "wikiLink": "https://mkdd.org/wiki/Bowser_Jr.%27s_Crafty_Castle_Jr."
+    },
+    {
+        "trackName": "Polychrome Path",
+        "version": "1.0-hotfix",
+        "cup": "T",
+        "track": "4",
+        "author": "Tara",
+        "downloadLink": "https://github.com/TaraGrace56/Tara-s-CT-Archive/raw/main/Double%20Dash/Polychrome%20Path/v1.0/Polychrome%20Path%20by%20Tara.zip",
+        "wikiLink": "https://mkdd.org/wiki/Polychrome_Path"
+    },
+    {
+        "trackName": "SNES Mario Circuit 1",
+        "version": "1.0",
+        "cup": "U",
+        "track": "1",
+        "author": "That1loser4",
+        "downloadLink": "https://mega.nz/folder/QVYAGYgJ#BSqVtyjaNSOxJTuj8Ho15g",
+        "wikiLink": "https://mkdd.org/wiki/SNES_Mario_Circuit_1_(That1loser4)"
+    },
+    {
+        "trackName": "SNES Ghost Valley 2",
+        "version": "2.1",
+        "cup": "U",
+        "track": "2",
+        "author": "King Boo Gaming, That1loser4",
+        "downloadLink": "https://mega.nz/folder/MQJiwZhb#f18AoJPzrUachZYoaqeMSw",
+        "wikiLink": "https://mkdd.org/wiki/SNES_Ghost_Valley_2"
+    },
+    {
+        "trackName": "GCN Yoshi Desert",
+        "version": "1.1",
+        "cup": "U",
+        "track": "3",
+        "author": "That1loser4",
+        "downloadLink": "https://mega.nz/folder/4AphmKxJ#WFPIuk8RLBeZMjLfYKyn5Q/folder/ldpQjaLY",
+        "wikiLink": "https://mkdd.org/wiki/GBA_Yoshi_Desert"
+    },
+    {
+        "trackName": "GP Waluigi Stadium",
+        "version": "1.0",
+        "cup": "U",
+        "track": "4",
+        "author": "That1loser4",
+        "downloadLink": "https://mega.nz/folder/4AphmKxJ#WFPIuk8RLBeZMjLfYKyn5Q/folder/oYpUzCLZ",
+        "wikiLink": "https://mkdd.org/wiki/GP_Waluigi_Stadium"
+    },
+    {
+        "trackName": "Wii Daisy Circuit",
+        "version": "1.0",
+        "cup": "V",
+        "track": "1",
+        "author": "Yosh Fr",
+        "downloadLink": "https://drive.google.com/file/d/1_HimJRcH51ULqWOzy2Fl6ISHwup4EBKt/view?usp=sharing",
+        "wikiLink": "https://mkdd.org/wiki/Wii_Daisy_Circuit"
+    },
+    {
+        "trackName": "DS Delfino Square",
+        "version": "1.1",
+        "cup": "V",
+        "track": "2",
+        "author": "Yosh Fr",
+        "downloadLink": "https://drive.google.com/file/d/1wv67rYAECc0g4APyeC_-xPIgpTTcRtYr/view?usp=drive_link",
+        "wikiLink": "https://mkdd.org/wiki/DS_Delfino_Square"
+    },
+    {
+        "trackName": "Wii DK Summit",
+        "version": "1.0",
+        "cup": "V",
+        "track": "3",
+        "author": "Yosh Fr",
+        "downloadLink": "https://drive.google.com/file/d/1SNjPI84LyZn-XcfXKLEC1Yc0V-K7kNiY/view?usp=drive_link",
+        "wikiLink": "https://mkdd.org/wiki/Wii_DK_Summit"
+    },
+    {
+        "trackName": "DS Peach Gardens",
+        "version": "3.0",
+        "cup": "V",
+        "track": "4",
+        "author": "Geras",
+        "downloadLink": "https://mkdd.org/wiki/DS_Peach_Gardens",
+        "wikiLink": "https://mkdd.org/wiki/Wii_DK_Summit"
+    }, 
+    {
+        "trackName": "DS Shroom Ridge",
+        "version": "1.0",
+        "cup": "W",
+        "track": "1",
+        "author": "Casini Loogi",
+        "downloadLink": "https://mkdd.org/wiki/DS_Shroom_Ridge",
+        "wikiLink": "https://drive.google.com/file/d/1GD-4g6baILuAISpVskVA5CPLCxB0be7i"
+    },
+    {
+        "trackName": "DS Desert Hills",
+        "version": "2.1",
+        "cup": "W",
+        "track": "2",
+        "author": "Majas de pic",
+        "downloadLink": "https://drive.google.com/file/d/1SIQ0HTKsOPdjIDRORX1sTTChJOyIPm-r/view?usp=share_link",
+        "wikiLink": "https://mkdd.org/wiki/DS_Desert_Hills"
+    },
+    {
+        "trackName": "N64 Koopa Troopa Beach",
+        "version": "1.1",
+        "cup": "W",
+        "track": "3",
+        "author": "That1loser4",
+        "downloadLink": "https://mega.nz/folder/sZJlXIKb#XSPEbOhQRYIYAEHS8zwOWg",
+        "wikiLink": "https://mkdd.org/wiki/N64_Koopa_Troopa_Beach"
+    },
+    {
+        "trackName": "GP Snow Panic",
+        "version": "3.0",
+        "cup": "W",
+        "track": "4",
+        "author": "That1loser4",
+        "downloadLink": "https://mega.nz/folder/ANAmgB6Y#0fphN_T8n_6KDfRIdoIO-w",
+        "wikiLink": "https://mkdd.org/wiki/GP_Snow_Panic"
+    },
+    {
+        "trackName": "SNES Ghost Valley 1",
+        "version": "RC1",
+        "cup": "X",
+        "track": "1",
+        "author": "Bruh de la Boi",
+        "downloadLink": "https://drive.google.com/file/d/1AHMdmV0KoHWw-PM0y3o95e8ckABhVxfb/view?usp=share_link",
+        "wikiLink": "https://mkdd.org/wiki/RMX_Ghost_Valley_1"
+    },
+    {
+        "trackName": "3DS Rosalina's Ice World",
+        "version": "RC1",
+        "cup": "X",
+        "track": "2",
+        "author": "King Boo Gaming",
+        "downloadLink": "https://mkdd.org/wiki/3DS_Rosalina%27s_Ice_World",
+        "wikiLink": "https://drive.google.com/file/d/1gfYyfHa2CCci9EyDSaF6Zj2wDE8WhM_6"
+    },
+    {
+        "trackName": "Wii Bowser's Castle",
+        "version": "RC1",
+        "cup": "X",
+        "track": "3",
+        "author": "That1loser4",
+        "downloadLink": "https://mega.nz/folder/4AphmKxJ#WFPIuk8RLBeZMjLfYKyn5Q/folder/wNog0YaL",
+        "wikiLink": "null"
+    },
+    {
+        "trackName": "N64 Rainbow Road",
+        "version": "1.0",
+        "cup": "X",
+        "track": "4",
+        "author": "That1loser4",
+        "downloadLink": "https://mega.nz/folder/4AphmKxJ#WFPIuk8RLBeZMjLfYKyn5Q/folder/8dohxa6K",
+        "wikiLink": "null"
+    }
+]
